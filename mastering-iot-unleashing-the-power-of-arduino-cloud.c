@@ -1,3 +1,11 @@
+/*
+ * Course: Mastering Iot Unleashing The Power Of Arduino Cloud
+ * Platform: Arduino
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Illustrative serial
 #include <string.h> // String handling
 
@@ -33,6 +41,7 @@ void loop(void) { // Main loop
   delay(1000); // 1s interval
 }
 
+// Main routine: orchestrates the mastering iot unleashing the power of arduino cloud scenario
 int main(void) { // Entry point
   setup(); // Init
   for (int i = 0; i < 5; ++i) { // Simulated cycles
